@@ -1,3 +1,5 @@
+create database examen;
+
 create table Mes(
 id int primary key,
 enero int,
